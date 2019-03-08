@@ -1,8 +1,9 @@
 {
   "streams": [
     {
-      "title": "my steam ",
-      "description": "first stream",
+      "title": "new stream",
+      "description": "something happen",
+      "userId": "109049656255845414273",
       "id": 1
     }
   ]
